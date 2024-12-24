@@ -14,5 +14,11 @@
 		"webvimark/helpers": "^1.0.0",
 		"webvimark/grid-bulk-actions": "^1.0.0",
 		"webvimark/grid-page-size": "^1.0.0"
-	}
+	},
+	"repositories": [
+		{
+		    "type": "vcs",
+		    "url": "https://github.com/nipzyaw88/date-range-picker.git"
+		}
+    	]
 }
